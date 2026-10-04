@@ -1,0 +1,5 @@
+markitdown
+magika
+onnxruntime
+Pillow
+tkinterdnd2

@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# PyInstaller build artifacts
+# (dist/ contains the compiled 114MB .exe; release it via GitHub Releases to avoid git 100MB limit)
+build/
+dist/
+
+# Scratch & temporary files
+scratch_*.py
+*.tmp
+*.log
+
+# Generated test output files
+test_files/*.md
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+*.swp
+*.swo
